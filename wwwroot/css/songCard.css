@@ -1,0 +1,98 @@
+﻿@@font-face {
+    font-family: 'Mukta';
+    src: url('/fonts/Mukta-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.media-card {
+    background-color: white;
+    box-shadow: 11px 10px 20px 10px rgba(211,211,211,0.75);
+    border: 1px solid gba(211,211,211,0.75);
+    border-radius: 25px;
+    width: 250px;
+    height: 450px;
+    margin: 24px;
+    margin-bottom: 72px;
+    font-family: Mukta;
+    display:flex;
+    flex-direction: column;
+}
+
+.audio-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: 24px;
+}
+
+.media-image {
+    height: 250px;
+    border-radius: 25px 25px 0px 0px;
+    width: auto;
+}
+
+.media-info {
+    margin: 10px 20px 0px 20px;
+}
+
+.artist {
+    color: #D3D3D3;
+    font-size: 12px
+}
+
+/* Styling the play/pause button */
+#audioControl {
+    background-color: #007bff; /* Primary color */
+    border: none;
+    border-radius: 50%; /* Rounded button */
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the play/pause icon inside the button */
+.audio-control i,
+.playIcon,
+.pauseIcon {
+    color: white;
+    font-size: 20px; 
+    width: 24px; 
+    height: 24px;
+    margin-top: 2px; /* This is because the icons aren't centered in the first place */
+}
+
+.audio-control {
+    background-color: #007bff; 
+    border: none; 
+    border-radius: 50%; 
+    padding: 10px; 
+    width: 50px; 
+    height: 50px; 
+    cursor: pointer; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+.audio-control:hover {
+    background-color: #0056b3; 
+    transform: scale(1.1); 
+}
+
+.audio-control:active {
+    background-color: #003d80;
+    transform: scale(1.05); 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.audio-control:focus {
+    outline: none;
+    border: none;
+}

@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Songs";
+}
+@model List<Portfolio.Models.SongItem>
+<link href="~/css/songs.css" rel="stylesheet" type="text/css" />
+<h1>Songs</h1>
+
+<div class="media-list">
+    @foreach (var song in Model)
+    {
+        @Html.Partial("_SongCard", (Portfolio.Models.SongItem)song)
+    }
+</div>

@@ -1,0 +1,14 @@
+﻿@model Portfolio.Models.MediaItem
+<link href="~/css/mediaCard.css" rel="stylesheet" type="text/css" />
+<div class="media-card">
+    <img src="@Model.ImageUrl" alt="@Model.Title" class="media-image" />
+    <div class="media-info">
+        <div class="title">
+            <h5>@Model.Title</h5>
+            <p class="rating"><b>@Model.Rating</b></p>
+        </div>
+
+        <p class="genre">@Model.Genre</p>
+        <p class="description">@Model.Description</p>
+    </div>
+</div>

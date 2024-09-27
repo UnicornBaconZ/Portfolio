@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Movies";
+}
+@model List<Portfolio.Models.MediaItem>
+<link href="~/css/movies.css" rel="stylesheet" type="text/css" />
+<h1>Movies</h1>
+
+<div class="media-list">
+    @foreach (var movie in Model)
+    {
+        @Html.Partial("_MediaCard", (Portfolio.Models.MediaItem)movie)
+    }
+</div>

@@ -1,0 +1,5 @@
+﻿.media-list {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}

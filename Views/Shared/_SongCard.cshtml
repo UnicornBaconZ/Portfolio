@@ -1,0 +1,24 @@
+﻿@model Portfolio.Models.SongItem
+<link href="~/css/songCard.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<div class="media-card">
+    <img src="@Model.SongImage" alt="@Model.Title" class="media-image" />
+    <div class="media-info">
+        <div class="title">
+            <h5>@Model.Title</h5>
+        </div>
+        <p class="artist">@Model.Artist</p>
+
+    </div>
+    <div class="audio-group">
+        <audio id="yourAudio-@Model.Title.Replace(" ", "")">
+            <source src="@Model.SongFile" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <button class="audio-control" id="audioControl-@Model.Title.Replace(" ", "")">
+            <i class="fas fa-play"></i>
+        </button>
+    </div>
+</div>
