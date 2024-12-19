@@ -33,6 +33,8 @@
 
 .media-info {
     margin-top: 10px;
+    max-width: 175px;
+    width: 100%;
 }
 
 .title {

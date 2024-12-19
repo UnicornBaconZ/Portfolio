@@ -1,315 +1,411 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Portfolio.bundle.scp.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Portfolio.bundle.scp.css",
       "PackagePath": "staticwebassets\\Portfolio.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\assets\\Movies\\suzume.jpg",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Movies\\Jttatf.jpg",
+      "PackagePath": "staticwebassets\\assets\\Movies\\Jttatf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Movies\\suzume.jpg",
       "PackagePath": "staticwebassets\\assets\\Movies\\suzume.jpg"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\assets\\Movies\\your_name.jpg",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Movies\\your_name.jpg",
       "PackagePath": "staticwebassets\\assets\\Movies\\your_name.jpg"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\assets\\Series\\demonslayer.jpg",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\aot.jpg",
+      "PackagePath": "staticwebassets\\assets\\Series\\aot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\chainsawman.jpg",
+      "PackagePath": "staticwebassets\\assets\\Series\\chainsawman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\demonslayer.jpg",
       "PackagePath": "staticwebassets\\assets\\Series\\demonslayer.jpg"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\assets\\Series\\spyxfamily.jpg",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\frieren.jpg",
+      "PackagePath": "staticwebassets\\assets\\Series\\frieren.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\jujutsukaisen.jpg",
+      "PackagePath": "staticwebassets\\assets\\Series\\jujutsukaisen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\mashle.jpg",
+      "PackagePath": "staticwebassets\\assets\\Series\\mashle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\opm.jpg",
+      "PackagePath": "staticwebassets\\assets\\Series\\opm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\sololeveling.jpg",
+      "PackagePath": "staticwebassets\\assets\\Series\\sololeveling.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\spyxfamily.jpg",
       "PackagePath": "staticwebassets\\assets\\Series\\spyxfamily.jpg"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\assets\\Songs\\FlowersNeedRain.jpg",
-      "PackagePath": "staticwebassets\\assets\\Songs\\FlowersNeedRain.jpg"
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Series\\summertimerendering.jpg",
+      "PackagePath": "staticwebassets\\assets\\Series\\summertimerendering.jpg"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\assets\\Songs\\FlowersNeedRain.mp3",
-      "PackagePath": "staticwebassets\\assets\\Songs\\FlowersNeedRain.mp3"
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\Image\\@MyWorst.jpg",
+      "PackagePath": "staticwebassets\\assets\\Songs\\Image\\@MyWorst.jpg"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\assets\\Songs\\LedToLead.jpg",
-      "PackagePath": "staticwebassets\\assets\\Songs\\LedToLead.jpg"
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\Image\\ChasingShadows.jpg",
+      "PackagePath": "staticwebassets\\assets\\Songs\\Image\\ChasingShadows.jpg"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\assets\\Songs\\LedToLead.mp3",
-      "PackagePath": "staticwebassets\\assets\\Songs\\LedToLead.mp3"
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\Image\\FlowersNeedRain.jpg",
+      "PackagePath": "staticwebassets\\assets\\Songs\\Image\\FlowersNeedRain.jpg"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\css\\home.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\Image\\Hypothetically.jpg",
+      "PackagePath": "staticwebassets\\assets\\Songs\\Image\\Hypothetically.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\Image\\LedToLead.jpg",
+      "PackagePath": "staticwebassets\\assets\\Songs\\Image\\LedToLead.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\Image\\MidnightRide.jpg",
+      "PackagePath": "staticwebassets\\assets\\Songs\\Image\\MidnightRide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\Image\\Potonu.jpg",
+      "PackagePath": "staticwebassets\\assets\\Songs\\Image\\Potonu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\Image\\Roses.jpg",
+      "PackagePath": "staticwebassets\\assets\\Songs\\Image\\Roses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\Image\\Stargazing.jpg",
+      "PackagePath": "staticwebassets\\assets\\Songs\\Image\\Stargazing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\mp3\\@MyWorst.mp3",
+      "PackagePath": "staticwebassets\\assets\\Songs\\mp3\\@MyWorst.mp3"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\mp3\\ChasingShadows.mp3",
+      "PackagePath": "staticwebassets\\assets\\Songs\\mp3\\ChasingShadows.mp3"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\mp3\\FlowersNeedRain.mp3",
+      "PackagePath": "staticwebassets\\assets\\Songs\\mp3\\FlowersNeedRain.mp3"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\mp3\\Hypothetically.mp3",
+      "PackagePath": "staticwebassets\\assets\\Songs\\mp3\\Hypothetically.mp3"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\mp3\\LedToLead.mp3",
+      "PackagePath": "staticwebassets\\assets\\Songs\\mp3\\LedToLead.mp3"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\mp3\\MidnightRide.mp3",
+      "PackagePath": "staticwebassets\\assets\\Songs\\mp3\\MidnightRide.mp3"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\mp3\\Potonu.mp3",
+      "PackagePath": "staticwebassets\\assets\\Songs\\mp3\\Potonu.mp3"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\mp3\\Roses.mp3",
+      "PackagePath": "staticwebassets\\assets\\Songs\\mp3\\Roses.mp3"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\assets\\Songs\\mp3\\Stargazing.mp3",
+      "PackagePath": "staticwebassets\\assets\\Songs\\mp3\\Stargazing.mp3"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\css\\mediaCard.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\css\\mediaCard.css",
       "PackagePath": "staticwebassets\\css\\mediaCard.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\css\\movies.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\css\\movies.css",
       "PackagePath": "staticwebassets\\css\\movies.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\css\\series.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\css\\series.css",
       "PackagePath": "staticwebassets\\css\\series.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\css\\songCard.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\css\\songCard.css",
       "PackagePath": "staticwebassets\\css\\songCard.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\css\\songs.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\css\\songs.css",
       "PackagePath": "staticwebassets\\css\\songs.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\fonts\\Minecraft.ttf",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\fonts\\Minecraft.ttf",
       "PackagePath": "staticwebassets\\fonts\\Minecraft.ttf"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\fonts\\Mukta-Regular.ttf",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\fonts\\Mukta-Regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\Mukta-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\fonts\\manrope.ttf",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\fonts\\manrope.ttf",
       "PackagePath": "staticwebassets\\fonts\\manrope.ttf"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\js\\custom-audio.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\js\\custom-audio.js",
       "PackagePath": "staticwebassets\\js\\custom-audio.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\js\\scroll-event-x-axis.js",
+      "PackagePath": "staticwebassets\\js\\scroll-event-x-axis.js"
+    },
+    {
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\zvans\\Projects\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\Portfolio.csproj": {}
+    "C:\\Users\\zvans\\Projects\\Portfolio\\Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\Portfolio.csproj": {
+    "C:\\Users\\zvans\\Projects\\Portfolio\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\zvans\\Projects\\Portfolio\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\Portfolio.csproj",
-        "packagesPath": "C:\\Users\\zarin.vansteelandt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zarin.vansteelandt\\Personal\\SeriesShelf\\obj\\",
+        "projectPath": "C:\\Users\\zvans\\Projects\\Portfolio\\Portfolio.csproj",
+        "packagesPath": "C:\\Users\\zvans\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zvans\\Projects\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zarin.vansteelandt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zvans\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

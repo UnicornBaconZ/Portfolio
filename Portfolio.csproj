@@ -7,12 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Data\" />
     <Folder Include="wwwroot\assets\Series\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="wwwroot\assets\Movies\suzume.jpg" />
     <None Include="wwwroot\css\movies.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
   </ItemGroup>
 
 </Project>

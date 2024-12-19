@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Portfolio.Models;
 using System.Collections.Generic;
+using System.Data.SQLite;
 
 namespace Portfolio.Controllers
 {
@@ -8,11 +9,27 @@ namespace Portfolio.Controllers
     {
         public IActionResult Index()
         {
-            var moviesList = new List<MediaItem>
-        {
-            new MediaItem { Title = "Spy x Family", ImageUrl = "/Assets/Series/spyxfamily.jpg", Rating = 9.2, Description = "A fantastic anime serie.", Genre = "Action/Comedy" },
-            new MediaItem { Title = "Demon Slayer", ImageUrl = "/Assets/Series/demonslayer.jpg", Rating = 9.4, Description = "An anime full of action.", Genre = "Action"  }
-        };
+            var moviesList = new List<MediaItem>();
+            using (var connection = new SQLiteConnection("Data Source=Data/portfolio.db"))
+                {
+                    connection.Open();
+                    var command = new SQLiteCommand("SELECT Title, ImageUrl, Rating, Description, Genre FROM Series ORDER BY Rating DESC", connection);
+
+                    using (var reader = command.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            moviesList.Add(new MediaItem
+                            {
+                                Title = reader.GetString(0),
+                                ImageUrl = reader.GetString(1),
+                                Rating = reader.GetDecimal(2),
+                                Description = reader.GetString(3),
+                                Genre = reader.GetString(4)
+                            });
+                        }
+                    }
+                }
 
             return View(moviesList);
         }

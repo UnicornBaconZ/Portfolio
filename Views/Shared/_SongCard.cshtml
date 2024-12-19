@@ -7,9 +7,11 @@
     <div class="media-info">
         <div class="title">
             <h5>@Model.Title</h5>
+            <a href="@Model.SongFile" download="@Model.Title" class="download-button" title="Download">
+                <i class="fas fa-download"></i>
+            </a>
         </div>
         <p class="artist">@Model.Artist</p>
-
     </div>
     <div class="audio-group">
         <audio id="yourAudio-@Model.Title.Replace(" ", "")">
@@ -21,4 +23,5 @@
             <i class="fas fa-play"></i>
         </button>
     </div>
+    <input type="range" class="progress-bar" value="0" min="0" step="1" />
 </div>
